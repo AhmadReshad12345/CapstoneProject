@@ -16,7 +16,6 @@ public class RetailAccountSteps extends CommonUtility{
 	POMFactory factory = new POMFactory();
 
 	
-	//----------------------------------------- Personal Information
 	
 	@When("User click on Account option")
 	public void userClickOnAccountOption() {
@@ -49,7 +48,7 @@ public class RetailAccountSteps extends CommonUtility{
 		
 	}
 	
-	//----------------------------- Password Change
+	
 	
 	
 	@And("User enter below information")
@@ -79,7 +78,6 @@ public class RetailAccountSteps extends CommonUtility{
 	logger.info("password changed");
 	}
 	
-	//-------------------------------------------- Add Card
 	
 	@When("User click on Add a payment method link")
 	public void userClickOnAddAPaymentMethodLink() {
@@ -109,8 +107,7 @@ public class RetailAccountSteps extends CommonUtility{
 	    logger.info("Message was displayed successfully");
 	}
 	
-	//--------------------------- Edit Card
-	
+
 	@When("User click on added card")
 	public void userClickedOnAddedCard() {
 		click(factory.accountPage().ClickOnCardToEdit);
@@ -153,7 +150,7 @@ public class RetailAccountSteps extends CommonUtility{
 	    logger.info("Message was displayed successfully");
 	}
 	
-	//------------------------------------- Remove card
+
 	
 	
 	@When("User click on remove option of card section")
@@ -169,7 +166,7 @@ public class RetailAccountSteps extends CommonUtility{
 	   
 	}
 
-	//--------------------------------------Add Address
+	
 	
 	
 	@When("User click on Add address option")
@@ -205,7 +202,7 @@ public class RetailAccountSteps extends CommonUtility{
 		
 	}
 	
-	//----------------------------------------------
+	
 	
 	@When("User click on edit address option")
 	public void userClickOnEditAddressOption() {
@@ -249,7 +246,7 @@ public class RetailAccountSteps extends CommonUtility{
 	    logger.info("Message was displayed successfully");
 	}
 	
-	//-----------------------------Remove Address
+	
 	
 	@When("User click on remove option of Address section")
 	public void userClickOnRemoveOptionOfAddressSection() {
@@ -258,9 +255,7 @@ public class RetailAccountSteps extends CommonUtility{
 	}
 	@Then("Address details should be removed")
 	public void addressDetailsShouldBeRemoved() {
-	//Assert.assertTrue(isNotDisplayed(factory.accountPage().remove));
 	Assert.assertFalse(isNotDisplayed(factory.accountPage().remove));
-	
 	logger.info("Address was removed");
 	}
 	

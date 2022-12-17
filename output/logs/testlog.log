@@ -2239,3 +2239,747 @@
 2022-11-16 02:09:26,011 - logger_File -INFO - User clicked on proceddChechoutButtn
 2022-11-16 02:09:26,071 - logger_File -INFO - User clicked on placed ordered button
 2022-11-16 02:09:26,299 - logger_File -INFO - Message was displayed
+2022-12-12 22:26:45,944 - logger_File -INFO - React App is equal to React App
+2022-12-12 22:26:46,342 - logger_File -INFO - User clicked on sign in button
+2022-12-12 22:26:48,745 - logger_File -INFO - user entered email and password
+2022-12-12 22:26:50,015 - logger_File -INFO - user clicked on loggin button
+2022-12-12 22:26:50,551 - logger_File -INFO - Account Option was display
+2022-12-12 22:26:51,149 - logger_File -INFO - User select the SmartHome option
+2022-12-12 22:26:52,015 - logger_File -INFO - User send the value to search input
+2022-12-12 22:26:52,632 - logger_File -INFO - User clicked on serach Button
+2022-12-12 22:26:52,945 - logger_File -INFO - User clicked on item
+2022-12-12 22:26:53,303 - logger_File -INFO - User selected 2 for quantity
+2022-12-12 22:26:53,426 - logger_File -INFO - User clicked on add cart button
+2022-12-12 22:26:53,659 - logger_File -INFO - Quantity changed and matched
+2022-12-12 22:26:53,910 - logger_File -INFO - Order
+2022-12-12 22:26:54,071 - logger_File -INFO - User clicked on proceddChechoutButtn
+2022-12-12 22:26:54,181 - logger_File -INFO - User clicked on placed ordered button
+2022-12-12 22:26:54,651 - logger_File -INFO - Message was displayed
+2022-12-12 23:40:15,299 - logger_File -INFO - React App is equal to React App
+2022-12-12 23:40:15,717 - logger_File -INFO - User clicked on sign in button
+2022-12-12 23:40:18,246 - logger_File -INFO - user entered email and password
+2022-12-12 23:40:19,439 - logger_File -INFO - user clicked on loggin button
+2022-12-12 23:40:19,940 - logger_File -INFO - Account Option was display
+2022-12-12 23:40:20,368 - logger_File -INFO - User select the SmartHome option
+2022-12-12 23:40:21,529 - logger_File -INFO - User send the value to search input
+2022-12-12 23:40:21,667 - logger_File -INFO - User clicked on serach Button
+2022-12-12 23:40:21,913 - logger_File -INFO - User clicked on item
+2022-12-12 23:40:22,281 - logger_File -INFO - User selected 2 for quantity
+2022-12-12 23:40:22,400 - logger_File -INFO - User clicked on add cart button
+2022-12-12 23:40:22,631 - logger_File -INFO - Quantity changed and matched
+2022-12-12 23:40:22,883 - logger_File -INFO - Order
+2022-12-12 23:40:23,059 - logger_File -INFO - User clicked on proceddChechoutButtn
+2022-12-12 23:40:23,128 - logger_File -INFO - User clicked on placed ordered button
+2022-12-12 23:40:23,669 - logger_File -INFO - Message was displayed
+2022-12-13 22:46:40,366 - logger_File -INFO - React App is equal to React App
+2022-12-13 22:46:40,772 - logger_File -INFO - User clicked on all department
+2022-12-13 22:46:40,936 - logger_File -INFO - User is on Electronics
+2022-12-13 22:46:41,239 - logger_File -INFO - below options are present in department
+2022-12-13 22:46:48,530 - logger_File -INFO - React App is equal to React App
+2022-12-13 22:46:48,880 - logger_File -INFO - User clicked on all department
+2022-12-13 22:46:49,028 - logger_File -INFO - User is on Computers
+2022-12-13 22:46:49,275 - logger_File -INFO - below options are present in department
+2022-12-13 22:46:56,340 - logger_File -INFO - React App is equal to React App
+2022-12-13 22:46:56,623 - logger_File -INFO - User clicked on all department
+2022-12-13 22:46:56,688 - logger_File -INFO - User is on Smart Home
+2022-12-13 22:46:57,078 - logger_File -INFO - below options are present in department
+2022-12-13 22:47:04,151 - logger_File -INFO - React App is equal to React App
+2022-12-13 22:47:04,524 - logger_File -INFO - User clicked on all department
+2022-12-13 22:47:04,651 - logger_File -INFO - User is on Sports
+2022-12-13 22:47:04,916 - logger_File -INFO - below options are present in department
+2022-12-13 22:47:11,952 - logger_File -INFO - React App is equal to React App
+2022-12-13 22:47:12,316 - logger_File -INFO - User clicked on all department
+2022-12-13 22:47:12,365 - logger_File -INFO - User is on Automotive
+2022-12-13 22:47:12,638 - logger_File -INFO - below options are present in department
+2022-12-13 22:48:36,610 - logger_File -INFO - React App is equal to React App
+2022-12-13 22:48:37,049 - logger_File -INFO - User clicked on sign in button
+2022-12-13 22:48:40,968 - logger_File -INFO - user entered email and password
+2022-12-13 22:48:41,250 - logger_File -INFO - user clicked on loggin button
+2022-12-13 22:48:41,772 - logger_File -INFO - Account Option was display
+2022-12-13 22:48:42,200 - logger_File -INFO - User select the SmartHome option
+2022-12-13 22:48:43,337 - logger_File -INFO - User send the value to search input
+2022-12-13 22:48:43,555 - logger_File -INFO - User clicked on serach Button
+2022-12-13 22:48:43,788 - logger_File -INFO - User clicked on item
+2022-12-13 22:48:44,207 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 22:48:44,325 - logger_File -INFO - User clicked on add cart button
+2022-12-13 22:48:44,550 - logger_File -INFO - Quantity changed and matched
+2022-12-13 22:48:44,793 - logger_File -INFO - Order
+2022-12-13 22:48:44,899 - logger_File -INFO - User clicked on proceddChechoutButtn
+2022-12-13 22:48:45,180 - logger_File -INFO - User clicked on addAddressbtn
+2022-12-13 22:50:05,148 - logger_File -INFO - React App is equal to React App
+2022-12-13 22:50:05,598 - logger_File -INFO - User clicked on sign in button
+2022-12-13 22:50:09,533 - logger_File -INFO - user entered email and password
+2022-12-13 22:50:09,702 - logger_File -INFO - user clicked on loggin button
+2022-12-13 22:50:10,362 - logger_File -INFO - Account Option was display
+2022-12-13 22:50:10,886 - logger_File -INFO - User select the SmartHome option
+2022-12-13 22:50:11,927 - logger_File -INFO - User send the value to search input
+2022-12-13 22:50:12,103 - logger_File -INFO - User clicked on serach Button
+2022-12-13 22:50:12,326 - logger_File -INFO - User clicked on item
+2022-12-13 22:50:12,747 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 22:50:12,857 - logger_File -INFO - User clicked on add cart button
+2022-12-13 22:52:23,794 - logger_File -INFO - React App is equal to React App
+2022-12-13 22:52:24,245 - logger_File -INFO - User clicked on sign in button
+2022-12-13 22:52:27,852 - logger_File -INFO - user entered email and password
+2022-12-13 22:52:28,342 - logger_File -INFO - user clicked on loggin button
+2022-12-13 22:52:28,860 - logger_File -INFO - Account Option was display
+2022-12-13 22:52:29,403 - logger_File -INFO - User select the SmartHome option
+2022-12-13 22:52:30,382 - logger_File -INFO - User send the value to search input
+2022-12-13 22:52:30,559 - logger_File -INFO - User clicked on serach Button
+2022-12-13 22:52:30,781 - logger_File -INFO - User clicked on item
+2022-12-13 22:52:31,207 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 22:52:31,323 - logger_File -INFO - User clicked on add cart button
+2022-12-13 22:53:50,734 - logger_File -INFO - React App is equal to React App
+2022-12-13 22:53:51,184 - logger_File -INFO - User clicked on sign in button
+2022-12-13 22:53:55,129 - logger_File -INFO - user entered email and password
+2022-12-13 22:53:55,293 - logger_File -INFO - user clicked on loggin button
+2022-12-13 22:53:55,814 - logger_File -INFO - Account Option was display
+2022-12-13 22:53:56,336 - logger_File -INFO - User select the SmartHome option
+2022-12-13 22:53:57,387 - logger_File -INFO - User send the value to search input
+2022-12-13 22:53:57,575 - logger_File -INFO - User clicked on serach Button
+2022-12-13 22:53:57,794 - logger_File -INFO - User clicked on item
+2022-12-13 22:53:58,255 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 22:53:58,352 - logger_File -INFO - User clicked on add cart button
+2022-12-13 22:55:04,097 - logger_File -INFO - React App is equal to React App
+2022-12-13 22:55:04,535 - logger_File -INFO - User clicked on sign in button
+2022-12-13 22:55:06,939 - logger_File -INFO - user entered email and password
+2022-12-13 22:55:08,218 - logger_File -INFO - user clicked on loggin button
+2022-12-13 22:55:08,933 - logger_File -INFO - Account Option was display
+2022-12-13 22:55:09,358 - logger_File -INFO - User select the SmartHome option
+2022-12-13 22:55:09,815 - logger_File -INFO - User send the value to search input
+2022-12-13 22:55:10,715 - logger_File -INFO - User clicked on serach Button
+2022-12-13 22:55:10,977 - logger_File -INFO - User clicked on item
+2022-12-13 22:55:11,317 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 22:55:11,430 - logger_File -INFO - User clicked on add cart button
+2022-12-13 22:55:11,670 - logger_File -INFO - Quantity changed and matched
+2022-12-13 22:55:11,904 - logger_File -INFO - Order
+2022-12-13 22:55:12,108 - logger_File -INFO - User clicked on proceddChechoutButtn
+2022-12-13 22:55:12,174 - logger_File -INFO - User clicked on placed ordered button
+2022-12-13 22:55:12,615 - logger_File -INFO - Message was displayed
+2022-12-13 22:56:56,294 - logger_File -INFO - React App is equal to React App
+2022-12-13 22:56:56,709 - logger_File -INFO - User clicked on sign in button
+2022-12-13 22:57:00,494 - logger_File -INFO - user entered email and password
+2022-12-13 22:57:00,641 - logger_File -INFO - user clicked on loggin button
+2022-12-13 22:57:01,126 - logger_File -INFO - Account Option was display
+2022-12-13 22:57:01,557 - logger_File -INFO - User select the SmartHome option
+2022-12-13 22:57:02,769 - logger_File -INFO - User send the value to search input
+2022-12-13 22:57:02,922 - logger_File -INFO - User clicked on serach Button
+2022-12-13 22:57:03,153 - logger_File -INFO - User clicked on item
+2022-12-13 22:57:03,561 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 22:57:03,671 - logger_File -INFO - User clicked on add cart button
+2022-12-13 22:58:03,287 - logger_File -INFO - React App is equal to React App
+2022-12-13 22:58:03,608 - logger_File -INFO - User clicked on All departments
+2022-12-13 22:58:03,969 - logger_File -INFO - Options are present
+2022-12-13 22:58:52,218 - logger_File -INFO - React App is equal to React App
+2022-12-13 22:58:52,626 - logger_File -INFO - User clicked on all department
+2022-12-13 22:58:52,769 - logger_File -INFO - User is on Electronics
+2022-12-13 22:58:53,061 - logger_File -INFO - below options are present in department
+2022-12-13 22:59:00,085 - logger_File -INFO - React App is equal to React App
+2022-12-13 22:59:00,446 - logger_File -INFO - User clicked on all department
+2022-12-13 22:59:00,577 - logger_File -INFO - User is on Computers
+2022-12-13 22:59:00,858 - logger_File -INFO - below options are present in department
+2022-12-13 22:59:07,857 - logger_File -INFO - React App is equal to React App
+2022-12-13 22:59:08,236 - logger_File -INFO - User clicked on all department
+2022-12-13 22:59:08,397 - logger_File -INFO - User is on Smart Home
+2022-12-13 22:59:08,630 - logger_File -INFO - below options are present in department
+2022-12-13 22:59:15,666 - logger_File -INFO - React App is equal to React App
+2022-12-13 22:59:16,009 - logger_File -INFO - User clicked on all department
+2022-12-13 22:59:16,076 - logger_File -INFO - User is on Sports
+2022-12-13 22:59:16,382 - logger_File -INFO - below options are present in department
+2022-12-13 22:59:23,465 - logger_File -INFO - React App is equal to React App
+2022-12-13 22:59:23,747 - logger_File -INFO - User clicked on all department
+2022-12-13 22:59:23,842 - logger_File -INFO - User is on Automotive
+2022-12-13 22:59:24,169 - logger_File -INFO - below options are present in department
+2022-12-13 23:00:15,393 - logger_File -INFO - React App is equal to React App
+2022-12-13 23:00:15,827 - logger_File -INFO - User clicked on sign in button
+2022-12-13 23:00:19,743 - logger_File -INFO - user entered email and password
+2022-12-13 23:00:19,901 - logger_File -INFO - user clicked on loggin button
+2022-12-13 23:00:20,458 - logger_File -INFO - Account Option was display
+2022-12-13 23:00:20,925 - logger_File -INFO - User select the SmartHome option
+2022-12-13 23:00:22,014 - logger_File -INFO - User send the value to search input
+2022-12-13 23:00:22,191 - logger_File -INFO - User clicked on serach Button
+2022-12-13 23:00:22,439 - logger_File -INFO - User clicked on item
+2022-12-13 23:00:22,849 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 23:00:22,959 - logger_File -INFO - User clicked on add cart button
+2022-12-13 23:01:36,275 - logger_File -INFO - React App is equal to React App
+2022-12-13 23:01:36,683 - logger_File -INFO - User clicked on sign in button
+2022-12-13 23:01:40,597 - logger_File -INFO - user entered email and password
+2022-12-13 23:01:40,753 - logger_File -INFO - user clicked on loggin button
+2022-12-13 23:01:41,267 - logger_File -INFO - Account Option was display
+2022-12-13 23:01:41,696 - logger_File -INFO - User select the SmartHome option
+2022-12-13 23:01:42,774 - logger_File -INFO - User send the value to search input
+2022-12-13 23:01:42,960 - logger_File -INFO - User clicked on serach Button
+2022-12-13 23:01:43,199 - logger_File -INFO - User clicked on item
+2022-12-13 23:01:43,617 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 23:01:43,731 - logger_File -INFO - User clicked on add cart button
+2022-12-13 23:03:29,899 - logger_File -INFO - React App is equal to React App
+2022-12-13 23:03:30,361 - logger_File -INFO - User clicked on sign in button
+2022-12-13 23:03:34,108 - logger_File -INFO - user entered email and password
+2022-12-13 23:03:34,433 - logger_File -INFO - user clicked on loggin button
+2022-12-13 23:03:34,921 - logger_File -INFO - Account Option was display
+2022-12-13 23:03:35,366 - logger_File -INFO - User select the SmartHome option
+2022-12-13 23:03:35,975 - logger_File -INFO - User send the value to search input
+2022-12-13 23:03:36,786 - logger_File -INFO - User clicked on serach Button
+2022-12-13 23:03:37,015 - logger_File -INFO - User clicked on item
+2022-12-13 23:03:37,471 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 23:03:37,567 - logger_File -INFO - User clicked on add cart button
+2022-12-13 23:04:32,591 - logger_File -INFO - React App is equal to React App
+2022-12-13 23:04:33,014 - logger_File -INFO - User clicked on sign in button
+2022-12-13 23:04:36,806 - logger_File -INFO - user entered email and password
+2022-12-13 23:04:37,140 - logger_File -INFO - user clicked on loggin button
+2022-12-13 23:04:37,686 - logger_File -INFO - Account Option was display
+2022-12-13 23:04:38,240 - logger_File -INFO - User select the SmartHome option
+2022-12-13 23:04:39,287 - logger_File -INFO - User send the value to search input
+2022-12-13 23:04:39,457 - logger_File -INFO - User clicked on serach Button
+2022-12-13 23:04:39,677 - logger_File -INFO - User clicked on item
+2022-12-13 23:04:40,091 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 23:04:40,215 - logger_File -INFO - User clicked on add cart button
+2022-12-13 23:07:23,810 - logger_File -INFO - React App is equal to React App
+2022-12-13 23:07:24,309 - logger_File -INFO - User clicked on sign in button
+2022-12-13 23:07:26,656 - logger_File -INFO - user entered email and password
+2022-12-13 23:07:27,848 - logger_File -INFO - user clicked on loggin button
+2022-12-13 23:07:28,368 - logger_File -INFO - Account Option was display
+2022-12-13 23:07:28,790 - logger_File -INFO - User select the SmartHome option
+2022-12-13 23:07:29,944 - logger_File -INFO - User send the value to search input
+2022-12-13 23:07:30,243 - logger_File -INFO - User clicked on serach Button
+2022-12-13 23:07:30,461 - logger_File -INFO - User clicked on item
+2022-12-13 23:07:31,001 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 23:07:31,207 - logger_File -INFO - User clicked on add cart button
+2022-12-13 23:07:31,363 - logger_File -INFO - Quantity changed and matched
+2022-12-13 23:08:50,017 - logger_File -INFO - React App is equal to React App
+2022-12-13 23:08:50,474 - logger_File -INFO - User clicked on sign in button
+2022-12-13 23:08:52,923 - logger_File -INFO - user entered email and password
+2022-12-13 23:08:54,165 - logger_File -INFO - user clicked on loggin button
+2022-12-13 23:08:54,913 - logger_File -INFO - Account Option was display
+2022-12-13 23:08:55,332 - logger_File -INFO - User select the SmartHome option
+2022-12-13 23:08:55,977 - logger_File -INFO - User send the value to search input
+2022-12-13 23:08:56,813 - logger_File -INFO - User clicked on serach Button
+2022-12-13 23:08:57,041 - logger_File -INFO - User clicked on item
+2022-12-13 23:08:57,467 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 23:08:57,582 - logger_File -INFO - User clicked on add cart button
+2022-12-13 23:10:21,967 - logger_File -INFO - React App is equal to React App
+2022-12-13 23:10:22,391 - logger_File -INFO - User clicked on sign in button
+2022-12-13 23:10:26,392 - logger_File -INFO - user entered email and password
+2022-12-13 23:10:26,550 - logger_File -INFO - user clicked on loggin button
+2022-12-13 23:10:27,079 - logger_File -INFO - Account Option was display
+2022-12-13 23:10:27,506 - logger_File -INFO - User select the SmartHome option
+2022-12-13 23:10:28,574 - logger_File -INFO - User send the value to search input
+2022-12-13 23:10:28,950 - logger_File -INFO - User clicked on serach Button
+2022-12-13 23:10:29,171 - logger_File -INFO - User clicked on item
+2022-12-13 23:10:29,587 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 23:10:29,704 - logger_File -INFO - User clicked on add cart button
+2022-12-13 23:13:55,311 - logger_File -INFO - React App is equal to React App
+2022-12-13 23:13:55,742 - logger_File -INFO - User clicked on sign in button
+2022-12-13 23:13:57,768 - logger_File -INFO - user entered email and password
+2022-12-13 23:13:59,389 - logger_File -INFO - user clicked on loggin button
+2022-12-13 23:13:59,938 - logger_File -INFO - Account Option was display
+2022-12-13 23:14:00,136 - logger_File -INFO - User select the SmartHome option
+2022-12-13 23:14:00,866 - logger_File -INFO - User send the value to search input
+2022-12-13 23:14:01,554 - logger_File -INFO - User clicked on serach Button
+2022-12-13 23:14:01,832 - logger_File -INFO - User clicked on item
+2022-12-13 23:14:02,297 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 23:14:02,395 - logger_File -INFO - User clicked on add cart button
+2022-12-13 23:14:02,607 - logger_File -INFO - Quantity changed and matched
+2022-12-13 23:36:27,119 - logger_File -INFO - React App is equal to React App
+2022-12-13 23:36:27,571 - logger_File -INFO - User clicked on sign in button
+2022-12-13 23:36:30,566 - logger_File -INFO - user entered email and password
+2022-12-13 23:36:31,333 - logger_File -INFO - user clicked on loggin button
+2022-12-13 23:36:31,898 - logger_File -INFO - Account Option was display
+2022-12-13 23:36:32,254 - logger_File -INFO - User select the SmartHome option
+2022-12-13 23:36:33,399 - logger_File -INFO - User send the value to search input
+2022-12-13 23:36:33,543 - logger_File -INFO - User clicked on serach Button
+2022-12-13 23:36:33,857 - logger_File -INFO - User clicked on item
+2022-12-13 23:36:34,313 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 23:36:34,415 - logger_File -INFO - User clicked on add cart button
+2022-12-13 23:36:34,618 - logger_File -INFO - Quantity changed and matched
+2022-12-13 23:36:34,875 - logger_File -INFO - Order
+2022-12-13 23:36:35,004 - logger_File -INFO - User clicked on proceddChechoutButtn
+2022-12-13 23:36:35,281 - logger_File -INFO - User clicked on addAddressbtn
+2022-12-13 23:40:37,088 - logger_File -INFO - React App is equal to React App
+2022-12-13 23:40:37,519 - logger_File -INFO - User clicked on sign in button
+2022-12-13 23:40:40,676 - logger_File -INFO - user entered email and password
+2022-12-13 23:40:41,397 - logger_File -INFO - user clicked on loggin button
+2022-12-13 23:40:41,944 - logger_File -INFO - Account Option was display
+2022-12-13 23:40:42,405 - logger_File -INFO - User select the SmartHome option
+2022-12-13 23:40:43,710 - logger_File -INFO - User send the value to search input
+2022-12-13 23:40:43,858 - logger_File -INFO - User clicked on serach Button
+2022-12-13 23:40:44,191 - logger_File -INFO - User clicked on item
+2022-12-13 23:40:44,725 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 23:40:44,820 - logger_File -INFO - User clicked on add cart button
+2022-12-13 23:43:08,169 - logger_File -INFO - React App is equal to React App
+2022-12-13 23:43:08,610 - logger_File -INFO - User clicked on sign in button
+2022-12-13 23:43:10,451 - logger_File -INFO - user entered email and password
+2022-12-13 23:43:12,208 - logger_File -INFO - user clicked on loggin button
+2022-12-13 23:43:12,881 - logger_File -INFO - Account Option was display
+2022-12-13 23:43:13,255 - logger_File -INFO - User select the SmartHome option
+2022-12-13 23:43:14,152 - logger_File -INFO - User send the value to search input
+2022-12-13 23:43:14,508 - logger_File -INFO - User clicked on serach Button
+2022-12-13 23:43:14,781 - logger_File -INFO - User clicked on item
+2022-12-13 23:43:15,124 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 23:43:15,237 - logger_File -INFO - User clicked on add cart button
+2022-12-13 23:44:30,538 - logger_File -INFO - React App is equal to React App
+2022-12-13 23:44:30,967 - logger_File -INFO - User clicked on sign in button
+2022-12-13 23:44:33,509 - logger_File -INFO - user entered email and password
+2022-12-13 23:44:34,777 - logger_File -INFO - user clicked on loggin button
+2022-12-13 23:44:35,293 - logger_File -INFO - Account Option was display
+2022-12-13 23:44:35,743 - logger_File -INFO - User select the SmartHome option
+2022-12-13 23:44:36,640 - logger_File -INFO - User send the value to search input
+2022-12-13 23:44:36,950 - logger_File -INFO - User clicked on serach Button
+2022-12-13 23:44:37,214 - logger_File -INFO - User clicked on item
+2022-12-13 23:44:37,575 - logger_File -INFO - User selected 2 for quantity
+2022-12-13 23:44:37,694 - logger_File -INFO - User clicked on add cart button
+2022-12-13 23:53:55,102 - logger_File -INFO - React App is equal to React App
+2022-12-13 23:53:55,533 - logger_File -INFO - User clicked on sign in button
+2022-12-13 23:53:57,787 - logger_File -INFO - user entered email and password
+2022-12-13 23:53:59,088 - logger_File -INFO - user clicked on loggin button
+2022-12-13 23:53:59,877 - logger_File -INFO - Account Option was display
+2022-12-13 23:54:00,565 - logger_File -INFO - User clicked on option button
+2022-12-13 23:58:41,970 - logger_File -INFO - React App is equal to React App
+2022-12-13 23:58:42,407 - logger_File -INFO - User clicked on sign in button
+2022-12-13 23:58:45,929 - logger_File -INFO - user entered email and password
+2022-12-13 23:58:46,207 - logger_File -INFO - user clicked on loggin button
+2022-12-13 23:58:46,731 - logger_File -INFO - Account Option was display
+2022-12-13 23:58:47,401 - logger_File -INFO - User clicked on option button
+2022-12-13 23:58:49,364 - logger_File -INFO - User entered the below information
+2022-12-13 23:58:49,488 - logger_File -INFO - User clicked on change password button
+2022-12-13 23:59:58,460 - logger_File -INFO - React App is equal to React App
+2022-12-13 23:59:58,909 - logger_File -INFO - User clicked on sign in button
+2022-12-14 00:00:02,316 - logger_File -INFO - user entered email and password
+2022-12-14 00:00:03,049 - logger_File -INFO - user clicked on loggin button
+2022-12-14 00:00:03,560 - logger_File -INFO - Account Option was display
+2022-12-14 00:00:03,988 - logger_File -INFO - User clicked on option button
+2022-12-14 00:00:06,132 - logger_File -INFO - User entered the below information
+2022-12-14 00:00:06,230 - logger_File -INFO - User clicked on change password button
+2022-12-14 00:00:07,393 - logger_File -INFO - password changed
+2022-12-14 00:01:56,755 - logger_File -INFO - React App is equal to React App
+2022-12-14 00:01:57,163 - logger_File -INFO - User clicked on sign in button
+2022-12-14 00:02:00,047 - logger_File -INFO - user entered email and password
+2022-12-14 00:02:00,957 - logger_File -INFO - user clicked on loggin button
+2022-12-14 00:02:57,199 - logger_File -INFO - React App is equal to React App
+2022-12-14 00:02:57,651 - logger_File -INFO - User clicked on sign in button
+2022-12-14 00:03:00,903 - logger_File -INFO - user entered email and password
+2022-12-14 00:03:01,667 - logger_File -INFO - user clicked on loggin button
+2022-12-14 00:04:20,391 - logger_File -INFO - React App is equal to React App
+2022-12-14 00:04:20,803 - logger_File -INFO - User clicked on sign in button
+2022-12-14 00:04:23,678 - logger_File -INFO - user entered email and password
+2022-12-14 00:04:24,671 - logger_File -INFO - user clicked on loggin button
+2022-12-14 00:05:39,573 - logger_File -INFO - React App is equal to React App
+2022-12-14 00:05:40,044 - logger_File -INFO - User clicked on sign in button
+2022-12-14 00:05:43,071 - logger_File -INFO - user entered email and password
+2022-12-14 00:05:44,184 - logger_File -INFO - user clicked on loggin button
+2022-12-14 00:07:39,788 - logger_File -INFO - React App is equal to React App
+2022-12-14 00:07:40,259 - logger_File -INFO - User clicked on sign in button
+2022-12-14 00:07:42,585 - logger_File -INFO - user entered email and password
+2022-12-14 00:07:44,424 - logger_File -INFO - user clicked on loggin button
+2022-12-14 00:07:44,896 - logger_File -INFO - Account Option was display
+2022-12-14 00:07:45,586 - logger_File -INFO - User clicked on option button
+2022-12-14 00:07:46,466 - logger_File -INFO - User click on add payment method link
+2022-12-14 00:07:47,739 - logger_File -INFO - User clicked on summit button
+2022-12-14 00:07:48,626 - logger_File -INFO - Message was displayed successfully
+2022-12-14 00:09:10,570 - logger_File -INFO - React App is equal to React App
+2022-12-14 00:09:10,993 - logger_File -INFO - User clicked on sign in button
+2022-12-14 00:09:13,475 - logger_File -INFO - user entered email and password
+2022-12-14 00:09:14,750 - logger_File -INFO - user clicked on loggin button
+2022-12-14 00:09:15,284 - logger_File -INFO - Account Option was display
+2022-12-14 00:09:15,709 - logger_File -INFO - User clicked on option button
+2022-12-14 00:09:16,160 - logger_File -INFO - User click on added card
+2022-12-14 00:09:17,237 - logger_File -INFO - User clicked on login button
+2022-12-14 00:09:18,662 - logger_File -INFO - User entered the following information
+2022-12-14 00:09:18,950 - logger_File -INFO - User clicked on updated button
+2022-12-14 00:09:19,889 - logger_File -INFO - Message was displayed successfully
+2022-12-14 00:10:09,219 - logger_File -INFO - React App is equal to React App
+2022-12-14 00:10:09,640 - logger_File -INFO - User clicked on sign in button
+2022-12-14 00:10:11,656 - logger_File -INFO - user entered email and password
+2022-12-14 00:10:13,205 - logger_File -INFO - user clicked on loggin button
+2022-12-14 00:10:13,908 - logger_File -INFO - Account Option was display
+2022-12-14 00:10:14,414 - logger_File -INFO - User clicked on option button
+2022-12-14 00:10:14,800 - logger_File -INFO - User click on added card
+2022-12-14 00:10:15,919 - logger_File -INFO - User clicked in remove buttn
+2022-12-14 00:10:15,942 - logger_File -INFO - Card was removed
+2022-12-14 00:12:30,437 - logger_File -INFO - React App is equal to React App
+2022-12-14 00:12:30,870 - logger_File -INFO - User clicked on sign in button
+2022-12-14 00:12:33,014 - logger_File -INFO - user entered email and password
+2022-12-14 00:12:34,417 - logger_File -INFO - user clicked on loggin button
+2022-12-14 00:12:34,986 - logger_File -INFO - Account Option was display
+2022-12-14 00:12:35,641 - logger_File -INFO - User clicked on option button
+2022-12-14 00:12:36,947 - logger_File -INFO - User clicked on add address icon
+2022-12-14 00:12:38,822 - logger_File -INFO - User added the address information
+2022-12-14 00:12:39,002 - logger_File -INFO - User clicked on add address button
+2022-12-14 00:12:39,899 - logger_File -INFO - Message was displayed successfully
+2022-12-14 00:14:46,267 - logger_File -INFO - React App is equal to React App
+2022-12-14 00:14:46,790 - logger_File -INFO - User clicked on sign in button
+2022-12-14 00:14:49,022 - logger_File -INFO - user entered email and password
+2022-12-14 00:14:50,397 - logger_File -INFO - user clicked on loggin button
+2022-12-14 00:14:50,844 - logger_File -INFO - Account Option was display
+2022-12-14 00:14:51,521 - logger_File -INFO - User clicked on option button
+2022-12-14 00:14:52,834 - logger_File -INFO - User clicked on edit address option
+2022-12-14 00:14:55,270 - logger_File -INFO - User updated the address information
+2022-12-14 00:14:55,497 - logger_File -INFO - User clicked on update address button
+2022-12-14 00:16:53,051 - logger_File -INFO - React App is equal to React App
+2022-12-14 00:16:53,483 - logger_File -INFO - User clicked on sign in button
+2022-12-14 00:16:55,762 - logger_File -INFO - user entered email and password
+2022-12-14 00:16:56,924 - logger_File -INFO - user clicked on loggin button
+2022-12-14 00:16:57,852 - logger_File -INFO - Account Option was display
+2022-12-14 00:16:58,593 - logger_File -INFO - User clicked on option button
+2022-12-14 00:16:59,705 - logger_File -INFO - User clicked on edit address option
+2022-12-14 00:17:02,138 - logger_File -INFO - User updated the address information
+2022-12-14 00:17:02,352 - logger_File -INFO - User clicked on update address button
+2022-12-14 00:19:08,846 - logger_File -INFO - React App is equal to React App
+2022-12-14 00:19:09,299 - logger_File -INFO - User clicked on sign in button
+2022-12-14 00:19:11,902 - logger_File -INFO - user entered email and password
+2022-12-14 00:19:13,306 - logger_File -INFO - user clicked on loggin button
+2022-12-14 00:19:14,003 - logger_File -INFO - Account Option was display
+2022-12-14 00:19:14,697 - logger_File -INFO - User clicked on option button
+2022-12-14 00:19:15,292 - logger_File -INFO - User clicked on edit address option
+2022-12-14 00:19:18,453 - logger_File -INFO - User updated the address information
+2022-12-14 00:19:18,644 - logger_File -INFO - User clicked on update address button
+2022-12-14 00:20:54,885 - logger_File -INFO - React App is equal to React App
+2022-12-14 00:20:55,346 - logger_File -INFO - User clicked on sign in button
+2022-12-14 00:20:57,678 - logger_File -INFO - user entered email and password
+2022-12-14 00:20:58,957 - logger_File -INFO - user clicked on loggin button
+2022-12-14 00:20:59,510 - logger_File -INFO - Account Option was display
+2022-12-14 00:21:00,274 - logger_File -INFO - User clicked on option button
+2022-12-14 00:21:00,503 - logger_File -INFO - User clicked on remove option
+2022-12-14 00:21:00,504 - logger_File -INFO - Address was removed
+2022-12-15 18:36:45,698 - logger_File -INFO - React App is equal to React App
+2022-12-15 18:36:46,126 - logger_File -INFO - User clicked on sign in button
+2022-12-15 18:36:48,783 - logger_File -INFO - user entered email and password
+2022-12-15 18:36:50,161 - logger_File -INFO - user clicked on loggin button
+2022-12-15 18:36:51,041 - logger_File -INFO - Account Option was display
+2022-12-15 18:36:51,170 - logger_File -INFO - User clicked on order option
+2022-12-15 18:38:13,578 - logger_File -INFO - React App is equal to React App
+2022-12-15 18:38:14,180 - logger_File -INFO - User clicked on sign in button
+2022-12-15 18:38:16,803 - logger_File -INFO - user entered email and password
+2022-12-15 18:38:18,393 - logger_File -INFO - user clicked on loggin button
+2022-12-15 18:38:18,995 - logger_File -INFO - Account Option was display
+2022-12-15 18:38:19,190 - logger_File -INFO - User clicked on order option
+2022-12-15 18:38:19,633 - logger_File -INFO - User clicked on first order
+2022-12-15 18:38:20,700 - logger_File -INFO - User clicked on cancel order
+2022-12-15 18:38:20,829 - logger_File -INFO - User selected the Bought wrong item reason
+2022-12-15 18:38:20,948 - logger_File -INFO - User clicked on cancel order
+2022-12-15 18:38:21,134 - logger_File -INFO - the message was displayed
+2022-12-15 18:40:45,166 - logger_File -INFO - React App is equal to React App
+2022-12-15 18:40:45,648 - logger_File -INFO - User clicked on sign in button
+2022-12-15 18:40:48,843 - logger_File -INFO - user entered email and password
+2022-12-15 18:40:49,787 - logger_File -INFO - user clicked on loggin button
+2022-12-15 18:46:23,847 - logger_File -INFO - React App is equal to React App
+2022-12-15 18:46:24,323 - logger_File -INFO - User clicked on sign in button
+2022-12-15 18:46:27,930 - logger_File -INFO - user entered email and password
+2022-12-15 18:46:28,789 - logger_File -INFO - user clicked on loggin button
+2022-12-15 18:46:29,337 - logger_File -INFO - Account Option was display
+2022-12-15 18:46:29,624 - logger_File -INFO - User clicked on order option
+2022-12-15 18:48:33,767 - logger_File -INFO - React App is equal to React App
+2022-12-15 18:48:34,244 - logger_File -INFO - User clicked on sign in button
+2022-12-15 18:48:37,420 - logger_File -INFO - user entered email and password
+2022-12-15 18:48:38,442 - logger_File -INFO - user clicked on loggin button
+2022-12-15 18:48:38,987 - logger_File -INFO - Account Option was display
+2022-12-15 18:48:39,196 - logger_File -INFO - User select the SmartHome option
+2022-12-15 18:48:40,590 - logger_File -INFO - User send the value to search input
+2022-12-15 18:48:40,817 - logger_File -INFO - User clicked on serach Button
+2022-12-15 18:48:41,200 - logger_File -INFO - User clicked on item
+2022-12-15 18:48:41,710 - logger_File -INFO - User selected 2 for quantity
+2022-12-15 18:48:41,814 - logger_File -INFO - User clicked on add cart button
+2022-12-15 18:48:41,997 - logger_File -INFO - Quantity changed and matched
+2022-12-15 18:49:49,055 - logger_File -INFO - React App is equal to React App
+2022-12-15 18:49:49,532 - logger_File -INFO - User clicked on sign in button
+2022-12-15 18:49:52,752 - logger_File -INFO - user entered email and password
+2022-12-15 18:49:53,665 - logger_File -INFO - user clicked on loggin button
+2022-12-15 18:49:54,193 - logger_File -INFO - Account Option was display
+2022-12-15 18:49:54,646 - logger_File -INFO - User select the SmartHome option
+2022-12-15 18:49:55,679 - logger_File -INFO - User send the value to search input
+2022-12-15 18:49:56,022 - logger_File -INFO - User clicked on serach Button
+2022-12-15 18:49:56,376 - logger_File -INFO - User clicked on item
+2022-12-15 18:49:56,857 - logger_File -INFO - User selected 2 for quantity
+2022-12-15 18:49:56,961 - logger_File -INFO - User clicked on add cart button
+2022-12-15 18:51:21,351 - logger_File -INFO - React App is equal to React App
+2022-12-15 18:51:21,841 - logger_File -INFO - User clicked on sign in button
+2022-12-15 18:51:25,184 - logger_File -INFO - user entered email and password
+2022-12-15 18:51:26,344 - logger_File -INFO - user clicked on loggin button
+2022-12-15 18:51:26,834 - logger_File -INFO - Account Option was display
+2022-12-15 18:51:27,062 - logger_File -INFO - User select the SmartHome option
+2022-12-15 18:51:27,584 - logger_File -INFO - User send the value to search input
+2022-12-15 18:51:28,563 - logger_File -INFO - User clicked on serach Button
+2022-12-15 18:51:28,853 - logger_File -INFO - User clicked on item
+2022-12-15 18:51:29,320 - logger_File -INFO - User selected 2 for quantity
+2022-12-15 18:51:29,423 - logger_File -INFO - User clicked on add cart button
+2022-12-15 18:53:13,719 - logger_File -INFO - React App is equal to React App
+2022-12-15 18:53:14,202 - logger_File -INFO - User clicked on sign in button
+2022-12-15 18:53:17,838 - logger_File -INFO - user entered email and password
+2022-12-15 18:53:18,733 - logger_File -INFO - user clicked on loggin button
+2022-12-15 18:53:19,225 - logger_File -INFO - Account Option was display
+2022-12-15 18:53:19,368 - logger_File -INFO - User clicked on order option
+2022-12-15 18:57:42,963 - logger_File -INFO - React App is equal to React App
+2022-12-15 18:57:43,411 - logger_File -INFO - User clicked on sign in button
+2022-12-15 18:57:46,269 - logger_File -INFO - user entered email and password
+2022-12-15 18:57:47,608 - logger_File -INFO - user clicked on loggin button
+2022-12-15 18:57:48,149 - logger_File -INFO - Account Option was display
+2022-12-15 18:57:49,033 - logger_File -INFO - User clicked on order option
+2022-12-15 19:11:55,298 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:11:55,786 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:11:58,227 - logger_File -INFO - user entered email and password
+2022-12-15 19:11:59,624 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:12:00,408 - logger_File -INFO - Account Option was display
+2022-12-15 19:12:00,765 - logger_File -INFO - User clicked on order option
+2022-12-15 19:14:16,823 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:14:17,332 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:14:20,557 - logger_File -INFO - user entered email and password
+2022-12-15 19:14:21,603 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:14:22,053 - logger_File -INFO - Account Option was display
+2022-12-15 19:16:02,539 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:16:03,021 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:16:08,277 - logger_File -INFO - User send the follow texts
+2022-12-15 19:16:09,460 - logger_File -INFO - User clicked on created account
+2022-12-15 19:20:21,272 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:20:21,723 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:20:27,505 - logger_File -INFO - User send the follow texts
+2022-12-15 19:20:27,864 - logger_File -INFO - User clicked on created account
+2022-12-15 19:21:42,982 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:21:43,466 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:21:48,112 - logger_File -INFO - User send the follow texts
+2022-12-15 19:21:49,374 - logger_File -INFO - User clicked on created account
+2022-12-15 19:21:49,918 - logger_File -INFO - New profile text was displayed
+2022-12-15 19:23:42,374 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:23:42,859 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:23:46,092 - logger_File -INFO - user entered email and password
+2022-12-15 19:23:47,139 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:23:47,630 - logger_File -INFO - Account Option was display
+2022-12-15 19:23:47,904 - logger_File -INFO - User clicked on order option
+2022-12-15 19:30:48,174 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:30:48,575 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:30:51,045 - logger_File -INFO - user entered email and password
+2022-12-15 19:30:52,619 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:30:53,118 - logger_File -INFO - Account Option was display
+2022-12-15 19:30:53,577 - logger_File -INFO - User clicked on option button
+2022-12-15 19:31:43,091 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:31:43,643 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:31:46,102 - logger_File -INFO - user entered email and password
+2022-12-15 19:31:47,607 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:31:48,448 - logger_File -INFO - Account Option was display
+2022-12-15 19:31:49,226 - logger_File -INFO - User clicked on option button
+2022-12-15 19:31:51,063 - logger_File -INFO - User entered the below information
+2022-12-15 19:31:51,154 - logger_File -INFO - User clicked on change password button
+2022-12-15 19:32:19,178 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:32:19,596 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:32:22,118 - logger_File -INFO - user entered email and password
+2022-12-15 19:32:23,783 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:32:24,373 - logger_File -INFO - Account Option was display
+2022-12-15 19:32:24,919 - logger_File -INFO - User clicked on option button
+2022-12-15 19:32:26,159 - logger_File -INFO - User click on add payment method link
+2022-12-15 19:32:27,533 - logger_File -INFO - User clicked on summit button
+2022-12-15 19:32:28,423 - logger_File -INFO - Message was displayed successfully
+2022-12-15 19:32:35,685 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:32:36,148 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:32:38,828 - logger_File -INFO - user entered email and password
+2022-12-15 19:32:40,203 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:32:41,016 - logger_File -INFO - Account Option was display
+2022-12-15 19:32:41,534 - logger_File -INFO - User clicked on option button
+2022-12-15 19:32:41,760 - logger_File -INFO - User click on added card
+2022-12-15 19:32:42,868 - logger_File -INFO - User clicked on login button
+2022-12-15 19:32:44,296 - logger_File -INFO - User entered the following information
+2022-12-15 19:32:44,427 - logger_File -INFO - User clicked on updated button
+2022-12-15 19:32:45,514 - logger_File -INFO - Message was displayed successfully
+2022-12-15 19:32:53,294 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:32:53,710 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:32:56,396 - logger_File -INFO - user entered email and password
+2022-12-15 19:32:57,853 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:32:58,620 - logger_File -INFO - Account Option was display
+2022-12-15 19:32:59,193 - logger_File -INFO - User clicked on option button
+2022-12-15 19:33:00,521 - logger_File -INFO - User click on added card
+2022-12-15 19:33:00,712 - logger_File -INFO - User clicked in remove buttn
+2022-12-15 19:33:00,732 - logger_File -INFO - Card was removed
+2022-12-15 19:33:07,240 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:33:07,680 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:33:10,207 - logger_File -INFO - user entered email and password
+2022-12-15 19:33:11,756 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:33:12,336 - logger_File -INFO - Account Option was display
+2022-12-15 19:33:13,072 - logger_File -INFO - User clicked on option button
+2022-12-15 19:33:14,132 - logger_File -INFO - User clicked on edit address option
+2022-12-15 19:33:16,950 - logger_File -INFO - User updated the address information
+2022-12-15 19:33:17,087 - logger_File -INFO - User clicked on update address button
+2022-12-15 19:34:05,342 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:34:05,777 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:34:08,361 - logger_File -INFO - user entered email and password
+2022-12-15 19:34:10,147 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:34:10,607 - logger_File -INFO - Account Option was display
+2022-12-15 19:34:11,113 - logger_File -INFO - User clicked on option button
+2022-12-15 19:34:11,330 - logger_File -INFO - User clicked on remove option
+2022-12-15 19:34:11,331 - logger_File -INFO - Address was removed
+2022-12-15 19:38:01,702 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:38:02,175 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:38:04,420 - logger_File -INFO - user entered email and password
+2022-12-15 19:38:06,351 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:38:06,871 - logger_File -INFO - Account Option was display
+2022-12-15 19:38:07,419 - logger_File -INFO - User clicked on option button
+2022-12-15 19:38:57,148 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:38:57,590 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:39:00,300 - logger_File -INFO - user entered email and password
+2022-12-15 19:39:01,638 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:39:02,386 - logger_File -INFO - Account Option was display
+2022-12-15 19:39:02,932 - logger_File -INFO - User clicked on option button
+2022-12-15 19:39:05,033 - logger_File -INFO - User entered the below information
+2022-12-15 19:39:05,121 - logger_File -INFO - User clicked on change password button
+2022-12-15 19:40:39,116 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:40:39,579 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:40:42,281 - logger_File -INFO - user entered email and password
+2022-12-15 19:40:43,608 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:40:44,143 - logger_File -INFO - Account Option was display
+2022-12-15 19:40:44,893 - logger_File -INFO - User clicked on option button
+2022-12-15 19:41:34,165 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:41:34,588 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:41:37,139 - logger_File -INFO - user entered email and password
+2022-12-15 19:41:38,706 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:41:39,294 - logger_File -INFO - Account Option was display
+2022-12-15 19:41:40,028 - logger_File -INFO - User clicked on option button
+2022-12-15 19:41:41,941 - logger_File -INFO - User entered the below information
+2022-12-15 19:41:42,037 - logger_File -INFO - User clicked on change password button
+2022-12-15 19:41:43,175 - logger_File -INFO - password changed
+2022-12-15 19:41:50,303 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:41:50,751 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:41:53,406 - logger_File -INFO - user entered email and password
+2022-12-15 19:41:54,875 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:42:22,488 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:42:22,991 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:42:25,798 - logger_File -INFO - user entered email and password
+2022-12-15 19:42:27,382 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:43:52,218 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:43:52,671 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:43:55,232 - logger_File -INFO - user entered email and password
+2022-12-15 19:43:56,732 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:44:07,246 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:44:07,591 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:44:10,399 - logger_File -INFO - user entered email and password
+2022-12-15 19:45:59,325 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:45:59,795 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:46:03,271 - logger_File -INFO - user entered email and password
+2022-12-15 19:46:04,115 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:46:55,409 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:46:55,873 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:46:59,051 - logger_File -INFO - user entered email and password
+2022-12-15 19:47:00,006 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:47:00,565 - logger_File -INFO - Account Option was display
+2022-12-15 19:47:01,072 - logger_File -INFO - User clicked on option button
+2022-12-15 19:47:50,783 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:47:51,306 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:47:54,815 - logger_File -INFO - user entered email and password
+2022-12-15 19:47:55,718 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:47:56,306 - logger_File -INFO - Account Option was display
+2022-12-15 19:47:57,063 - logger_File -INFO - User clicked on option button
+2022-12-15 19:47:58,658 - logger_File -INFO - User entered the below information
+2022-12-15 19:47:58,757 - logger_File -INFO - User clicked on change password button
+2022-12-15 19:48:47,469 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:48:48,020 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:48:51,006 - logger_File -INFO - user entered email and password
+2022-12-15 19:48:52,127 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:48:52,764 - logger_File -INFO - Account Option was display
+2022-12-15 19:48:53,467 - logger_File -INFO - User clicked on option button
+2022-12-15 19:48:53,634 - logger_File -INFO - User click on add payment method link
+2022-12-15 19:48:56,192 - logger_File -INFO - User clicked on summit button
+2022-12-15 19:48:57,109 - logger_File -INFO - Message was displayed successfully
+2022-12-15 19:49:04,229 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:49:04,657 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:49:07,635 - logger_File -INFO - user entered email and password
+2022-12-15 19:49:08,750 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:49:09,330 - logger_File -INFO - Account Option was display
+2022-12-15 19:49:10,007 - logger_File -INFO - User clicked on option button
+2022-12-15 19:49:10,361 - logger_File -INFO - User click on added card
+2022-12-15 19:49:11,533 - logger_File -INFO - User clicked on login button
+2022-12-15 19:49:13,112 - logger_File -INFO - User entered the following information
+2022-12-15 19:49:13,254 - logger_File -INFO - User clicked on updated button
+2022-12-15 19:49:14,154 - logger_File -INFO - Message was displayed successfully
+2022-12-15 19:49:20,646 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:49:21,077 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:49:24,353 - logger_File -INFO - user entered email and password
+2022-12-15 19:49:25,200 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:49:25,777 - logger_File -INFO - Account Option was display
+2022-12-15 19:49:26,251 - logger_File -INFO - User clicked on option button
+2022-12-15 19:49:26,557 - logger_File -INFO - User click on added card
+2022-12-15 19:49:27,908 - logger_File -INFO - User clicked in remove buttn
+2022-12-15 19:49:27,929 - logger_File -INFO - Card was removed
+2022-12-15 19:49:34,747 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:49:35,156 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:49:38,754 - logger_File -INFO - user entered email and password
+2022-12-15 19:49:39,349 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:49:40,197 - logger_File -INFO - Account Option was display
+2022-12-15 19:49:40,712 - logger_File -INFO - User clicked on option button
+2022-12-15 19:49:42,209 - logger_File -INFO - User clicked on add address icon
+2022-12-15 19:49:44,156 - logger_File -INFO - User added the address information
+2022-12-15 19:49:44,325 - logger_File -INFO - User clicked on add address button
+2022-12-15 19:49:45,219 - logger_File -INFO - Message was displayed successfully
+2022-12-15 19:49:52,261 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:49:52,825 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:49:56,103 - logger_File -INFO - user entered email and password
+2022-12-15 19:49:57,173 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:49:57,816 - logger_File -INFO - Account Option was display
+2022-12-15 19:49:58,334 - logger_File -INFO - User clicked on option button
+2022-12-15 19:49:59,787 - logger_File -INFO - User clicked on edit address option
+2022-12-15 19:50:02,300 - logger_File -INFO - User updated the address information
+2022-12-15 19:50:02,426 - logger_File -INFO - User clicked on update address button
+2022-12-15 19:50:50,393 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:50:50,938 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:50:54,179 - logger_File -INFO - user entered email and password
+2022-12-15 19:50:55,112 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:50:55,754 - logger_File -INFO - Account Option was display
+2022-12-15 19:50:56,207 - logger_File -INFO - User clicked on option button
+2022-12-15 19:50:56,428 - logger_File -INFO - User clicked on remove option
+2022-12-15 19:50:56,429 - logger_File -INFO - Address was removed
+2022-12-15 19:57:41,543 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:57:42,031 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:57:45,504 - logger_File -INFO - user entered email and password
+2022-12-15 19:57:46,368 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:57:46,885 - logger_File -INFO - Account Option was display
+2022-12-15 19:57:47,450 - logger_File -INFO - User clicked on option button
+2022-12-15 19:58:36,839 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:58:37,272 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:58:40,330 - logger_File -INFO - user entered email and password
+2022-12-15 19:58:41,241 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:58:41,831 - logger_File -INFO - Account Option was display
+2022-12-15 19:58:42,542 - logger_File -INFO - User clicked on option button
+2022-12-15 19:58:43,664 - logger_File -INFO - User click on add payment method link
+2022-12-15 19:58:45,194 - logger_File -INFO - User clicked on summit button
+2022-12-15 19:58:46,124 - logger_File -INFO - Message was displayed successfully
+2022-12-15 19:58:53,181 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:58:53,624 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:58:56,847 - logger_File -INFO - user entered email and password
+2022-12-15 19:58:57,666 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:58:58,246 - logger_File -INFO - Account Option was display
+2022-12-15 19:58:58,706 - logger_File -INFO - User clicked on option button
+2022-12-15 19:58:59,087 - logger_File -INFO - User click on added card
+2022-12-15 19:59:00,016 - logger_File -INFO - User clicked on login button
+2022-12-15 19:59:01,723 - logger_File -INFO - User entered the following information
+2022-12-15 19:59:01,823 - logger_File -INFO - User clicked on updated button
+2022-12-15 19:59:02,799 - logger_File -INFO - Message was displayed successfully
+2022-12-15 19:59:09,219 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:59:09,596 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:59:12,573 - logger_File -INFO - user entered email and password
+2022-12-15 19:59:13,703 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:59:14,380 - logger_File -INFO - Account Option was display
+2022-12-15 19:59:15,023 - logger_File -INFO - User clicked on option button
+2022-12-15 19:59:16,236 - logger_File -INFO - User click on added card
+2022-12-15 19:59:16,487 - logger_File -INFO - User clicked in remove buttn
+2022-12-15 19:59:16,553 - logger_File -INFO - Card was removed
+2022-12-15 19:59:23,213 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:59:23,638 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:59:27,033 - logger_File -INFO - user entered email and password
+2022-12-15 19:59:27,882 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:59:28,420 - logger_File -INFO - Account Option was display
+2022-12-15 19:59:29,170 - logger_File -INFO - User clicked on option button
+2022-12-15 19:59:30,396 - logger_File -INFO - User clicked on add address icon
+2022-12-15 19:59:32,486 - logger_File -INFO - User added the address information
+2022-12-15 19:59:32,657 - logger_File -INFO - User clicked on add address button
+2022-12-15 19:59:33,490 - logger_File -INFO - Message was displayed successfully
+2022-12-15 19:59:41,302 - logger_File -INFO - React App is equal to React App
+2022-12-15 19:59:41,736 - logger_File -INFO - User clicked on sign in button
+2022-12-15 19:59:45,203 - logger_File -INFO - user entered email and password
+2022-12-15 19:59:46,126 - logger_File -INFO - user clicked on loggin button
+2022-12-15 19:59:46,742 - logger_File -INFO - Account Option was display
+2022-12-15 19:59:47,285 - logger_File -INFO - User clicked on option button
+2022-12-15 19:59:48,907 - logger_File -INFO - User clicked on edit address option
+2022-12-15 19:59:51,279 - logger_File -INFO - User updated the address information
+2022-12-15 19:59:51,366 - logger_File -INFO - User clicked on update address button
+2022-12-15 20:00:39,554 - logger_File -INFO - React App is equal to React App
+2022-12-15 20:00:40,071 - logger_File -INFO - User clicked on sign in button
+2022-12-15 20:00:43,575 - logger_File -INFO - user entered email and password
+2022-12-15 20:00:44,464 - logger_File -INFO - user clicked on loggin button
+2022-12-15 20:00:45,054 - logger_File -INFO - Account Option was display
+2022-12-15 20:00:45,824 - logger_File -INFO - User clicked on option button
+2022-12-15 20:00:46,884 - logger_File -INFO - User clicked on remove option
+2022-12-15 20:00:46,886 - logger_File -INFO - Address was removed

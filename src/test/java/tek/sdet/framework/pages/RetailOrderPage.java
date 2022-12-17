@@ -12,7 +12,7 @@ public class RetailOrderPage extends BaseSetup{
         PageFactory.initElements(getDriver(), this);
     }
 
-	// ------------ cancel Order
+
 	
 	@FindBy(id="orderLink")
 	public WebElement orderPageOption;
@@ -27,7 +27,6 @@ public class RetailOrderPage extends BaseSetup{
 	@FindBy(xpath="//p[text()='Your Order Has Been Cancelled']")
 	public WebElement cancelOrderMessage;
 
-	// ------------ ReturnOrder
 	
 	@FindBy(id="returnBtn")
 	public WebElement returnOption;
@@ -41,7 +40,6 @@ public class RetailOrderPage extends BaseSetup{
 	@FindBy(xpath="//p[text()='Return was successfull']")
 	public WebElement retutnOrderMessage;
 	
-	//Review Order
 	
 	@FindBy(id="reviewBtn")
 	public WebElement reviewButton;

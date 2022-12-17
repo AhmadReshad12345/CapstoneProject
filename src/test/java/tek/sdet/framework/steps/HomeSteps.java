@@ -20,7 +20,7 @@ public class HomeSteps extends CommonUtility{
 	
 	@When("User click on All section")
 	public void userClickOnAllSection() {
-//	    click(factory.homePage().allDepartments);
+
 	    
 	    click(factory.homePage().hamburgerBtn);
 	    logger.info("User clicked on All departments");
@@ -29,11 +29,7 @@ public class HomeSteps extends CommonUtility{
 	public void belowOptionsArePresentInShopByDepartmentSidebar(DataTable dataTable) {
 	    List<List<String>> list = dataTable.asLists(String.class);
 	    
-//	    if(list.get(0).get(0).equals(getElementText(factory.homePage().electronics)) && 
-//	    		list.get(0).get(1).equals(getElementText(factory.homePage().computers)) &&
-//	    		list.get(0).get(2).equals(getElementText(factory.homePage().smartHome)) && 
-//	    		list.get(0).get(3).equals(getElementText(factory.homePage().sports)) &&
-//	    		list.get(0).get(4).equals(getElementText(factory.homePage().Automative))){ 
+
 	    
 	    if(list.get(0).get(0).equals(getElementText(factory.homePage().electronicOnAllDeprt)) && 
 	    		list.get(0).get(1).equals(getElementText(factory.homePage().ComputersOnAllDepart)) &&
@@ -47,24 +43,8 @@ public class HomeSteps extends CommonUtility{
 	    }
 	    logger.info("Options are present"); 
 	    
-//	    if(list.get(0).get(0).equals(getElementText(factory.homePage().electronics)) && ){
-//	    	if(list.get(0).get(1).equals(getElementText(factory.homePage().computers))){
-//	    		if(list.get(0).get(2).equals(getElementText(factory.homePage().smartHome))){
-//	    			if(list.get(0).get(3).equals(getElementText(factory.homePage().sports))){
-//	    				if(list.get(0).get(4).equals(getElementText(factory.homePage().Automative))){
-//	    			
-//	    					
-//	    				} 
-//	    			}
-//	    		}
-//	    	}
-	    
-	}
-	
-	
-	
-	
-	//-------------------------------- EasyOne
+	}  
+	    		
 	
 		@When("User click on All department")
 		public void hamburgerBtn() {
@@ -138,8 +118,7 @@ public class HomeSteps extends CommonUtility{
 		}
 	
 	
-	
-	//----------------- Add item
+
 	
 	@Then("User change the category to {string}")
 	public void userChangeTheCategoryTo(String string) {
@@ -181,7 +160,7 @@ public class HomeSteps extends CommonUtility{
 	    logger.info("Quantity changed and matched");
 	}
 	
-	// ----------------- ProceedToCheckOut
+	
 	
 	@Then("User click on Cart option")
 	public void userClickOnCartOption() {

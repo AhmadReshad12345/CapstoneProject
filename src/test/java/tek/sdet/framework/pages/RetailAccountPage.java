@@ -11,7 +11,7 @@ public class RetailAccountPage extends BaseSetup{
         PageFactory.initElements(getDriver(), this);
     }
 	
-	// ------------------- personal information
+	
 	
 
 	@FindBy(xpath="//h1[text()='Your Profile']")
@@ -30,8 +30,6 @@ public class RetailAccountPage extends BaseSetup{
 	public WebElement personalinformationUpdatedPopup;
 	
 	
-	//----------------- password
-	
 	
 	@FindBy(id="previousPasswordInput")
 	public WebElement previousPassword;
@@ -48,7 +46,7 @@ public class RetailAccountPage extends BaseSetup{
 	@FindBy(xpath="//div[text()='Password Updated Successfully']")
 	public WebElement changePasswordPopUp;
 	
-	//------------------- Add card
+	
 	
 	@FindBy(xpath="//p[text()='Add a payment method']")
 	public WebElement addPaymentMethodLink;
@@ -74,7 +72,7 @@ public class RetailAccountPage extends BaseSetup{
 	@FindBy(xpath="//div[text()='Payment Method added sucessfully']")
 	public WebElement cardAddedPopUp;
 	
-	//-------------------------------- Edit Payment card
+	
 	
 	@FindBy(xpath="//div//child::p[@class='account__payment-sub-title']")
 	public WebElement ClickOnCardToEdit;
@@ -85,15 +83,13 @@ public class RetailAccountPage extends BaseSetup{
 	@FindBy(xpath="//div[text()='Payment Method updated Successfully']")
 	public WebElement cardupdatedPopUp;
 	
-	//-------------------------------- Remove Card
+	
 	@FindBy(xpath="//button[text()='remove']")
 	public WebElement remove;
 	
 	@FindBy(xpath="//div[@class='account__payment-image-wrapper']//child::img[@alt='Master Card']")
 	public WebElement masterCardImage;
-	
-	//---------------------------------Add address
-	
+
 	@FindBy(xpath="//div[@class='account__address-new']")
 	public WebElement addressAddedIcon;
 	@FindBy(id="countryDropdown")
@@ -118,8 +114,6 @@ public class RetailAccountPage extends BaseSetup{
 	public WebElement addressAddedPopUp;
 	
 	
-	//-------------------------------------Edit Address
-	
 	@FindBy(xpath="//button[text()='Edit']")
 	
 	public WebElement editAddressOption;
@@ -130,7 +124,7 @@ public class RetailAccountPage extends BaseSetup{
 	@FindBy(xpath="//div[text()='Address Updated Successfully']")
 	public WebElement addressUpdatePopUp;
 	
-	//------------------------------------ Remove Address
+
 	
 	@FindBy(xpath="//button[text()='Remove']")
 	public WebElement removeAddress;

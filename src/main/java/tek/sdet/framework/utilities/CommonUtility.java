@@ -194,15 +194,8 @@ public class CommonUtility extends BaseSetup{
 		 actions.build().perform();
 	 }
 	    
-//	 public WebElement fluientWaitforElement(WebElement element, int timoutSec, int pollingSec) {
-//	        FluentWait<WebDriver> fWait = new FluentWait<WebDriver>(getDriver()).withTimeout(Duration.ofSeconds(30))
-//	                .pollingEvery(Duration.ofSeconds(30)).ignoring(NoSuchElementException.class, TimeoutException.class)
-//	                .ignoring(StaleElementReferenceException.class);
-//	        for (int i = 0; i < 2; i++)
-//	            fWait.until(ExpectedConditions.visibilityOf(element));
-//	        return element;
-//	    }
-//	    
+
+	    
 	   public void switchwindow(String pageTitle) {
 	        String currentWindow = getDriver().getWindowHandle();
 	        Set<String> handles = getDriver().getWindowHandles();
@@ -255,27 +248,6 @@ public class CommonUtility extends BaseSetup{
 	   }
 	   
 	   
-//	   public boolean equal(WebElement ele, String str) {
-		 
-//		   for(int i=0;i<list.size();i++) {
-//			   
-//			   if(ele.equals(list.get(0).get(i))){
-//				   return true;
-//			   }
-//			   
-//			   return false;
-//		   }
-//		   }
-//		   
-//		   if(ele.equals(str)){
-//			   return true;
-//		   } else {
-//			   return false;
-//		   }
-//		  
-//		   
-//	   }
-		   
-		
+
 	   
 }

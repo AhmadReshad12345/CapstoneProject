@@ -1,7 +1,5 @@
 package tek.sdet.framework.steps;
 
-import org.openqa.selenium.WebElement;
-
 
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -46,7 +44,7 @@ public class RetailOrderSteps extends CommonUtility{
 	}
 
 	
-	//--------------------- return Order
+
 	
 	
 	@When("User click on Return Items button")
@@ -78,7 +76,7 @@ public class RetailOrderSteps extends CommonUtility{
 	}
 	
 	
-	//------------------------- Review Order
+
 	
 	
 	@When("User click on Review button")

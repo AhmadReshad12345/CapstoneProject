@@ -8,10 +8,6 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class ChromeHeadless implements Browser{
 	
-	// why this class
-	// if we want to make a browser headless, we must use from it`s options. for Chrome browser
-	// we use 'ChromeOptions'. this option has few argument and access us to make our browser headless
-	// what is headless: the execution will be happen, but we will not see.
 
 	@Override
 	public WebDriver openBrowser(String url) {

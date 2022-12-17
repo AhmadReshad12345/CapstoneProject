@@ -18,23 +18,16 @@ import tek.sdet.framework.utilities.ReadYamlFiles;
 
 public class BaseSetup {
 
-	// What we have in this class?
-	// In this class we are gonna define the property of WebDriver.
-	// We are gonna define which browser we are gonna use.
-	// This class is gonna act as parent of other classes.
 	
 	private static WebDriver webDriver;
 	private final ReadYamlFiles enviromentVariables;
 	public static Logger logger;
 	
 	
-	// inside this constructor we are going to read the yaml file
-	// we need to get the file path from the enviroment configration 
-	// and also need to get the file path for log4j
 	
-	public BaseSetup() {                             // address of yaml file that we stored
+	public BaseSetup() {                             
 		String filePath = System.getProperty("user.dir")+"/src/main/resources/env_config.yml";
-		                                             // address of log4j that we stored
+		                                            
 		String log4jPath = System.getProperty("user.dir")+"/src/main/resources/log4j.properties";
 		
 		try {

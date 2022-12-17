@@ -17,7 +17,7 @@ public class RetailHomePage extends BaseSetup{
 	@FindBy(id="accountLink")
 	public WebElement accountDisplay;
 	
-	//---------------
+
 	@FindBy(id="search")
 	public WebElement allDepartments;
 	
@@ -60,7 +60,7 @@ public class RetailHomePage extends BaseSetup{
 	public WebElement cartQuantity;
 	
 	
-	///----------------------- ProceedToCheckOut
+	
 	
 	
 	@FindBy(id="proceedBtn")
@@ -106,12 +106,12 @@ public class RetailHomePage extends BaseSetup{
 	@FindBy(xpath="//p[text()='Order Placed, Thanks']")
 	public WebElement orderdPlacedMessage;
 	
-	//
+	
 	
 	@FindBy(xpath="Apex Legends - 1,000 Apex Coins")
 	public WebElement ApexItem;
 	
-	//------------------------------- EasyOne
+
 	
 	@FindBy(xpath="//span[text()='Electronics']")
 	public WebElement electronicOnAllDeprt;
